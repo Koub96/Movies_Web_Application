@@ -1,0 +1,5 @@
+.grid { /*The grid layout,3 columns each one taking up its respected space*/
+    display: grid;
+    grid-template-columns: 20%;
+    justify-content: center;
+}

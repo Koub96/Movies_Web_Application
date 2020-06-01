@@ -1,0 +1,80 @@
+.grid { 
+    max-width: 70%;
+	margin: auto;
+	display: grid;
+	grid-template-columns: auto;
+	grid-template-areas:"nav"
+			    "main";
+}
+
+
+.login {
+	grid-area: nav;
+	padding-left: 0.5%;
+	display: flex;
+	background-color: #afc3e1;
+}
+
+.login p{
+	
+	margin: 0.8%;
+	padding: 0.6%;
+}
+
+p{
+	font-family: 'Caveat', cursive;
+	color: #264067;
+	padding-left: 0.5%;
+	padding-right: 0.5%;
+}
+
+h3{
+	font-family: 'Indie Flower', cursive;
+	color: #203556;
+	padding-left: 0.5%;
+	font-size: 140%;
+	
+}
+
+.content {
+	background-color:#f3f6fb;
+	grid-area: main;
+	
+}
+
+body {
+	background-color: #335589;
+}
+
+.login p :visited {
+	color: #FFFAFA;
+}
+
+a:hover{
+	background-color:#5e87c4;
+	
+	
+}
+
+a:link {
+	color: #E6E6FA;
+}
+
+a:active {
+	background-color: #203556;
+}
+
+#poster{
+    
+    
+    display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	
+
+}
+
+h1{
+    color: white;
+    
+}

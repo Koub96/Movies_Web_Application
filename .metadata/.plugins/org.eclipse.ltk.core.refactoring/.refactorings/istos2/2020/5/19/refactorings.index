@@ -1,0 +1,24 @@
+1588678164581	Move 'display.html' to 'WEB-INF'
+1588678259103	Move 'display.jsp' to 'webapp'
+1588681222823	Move 'signupvalidations.js' to 'webapp'
+1588681270755	Move 'signupvalidations.js' to 'WEB-INF'
+1588681298072	Move 'signupvalidations.js' to 'js'
+1588771260401	Delete element
+1588771535048	Copy package
+1588771545323	Delete element
+1588771973673	Copy package
+1588771981990	Delete element
+1588773252307	Move file
+1588773438292	Move 'projectistos-firebase-adminsdk-me3oi-f0cf450d5e.json' to 'istos'
+1588786804121	Move file
+1588792482471	Move 'projectistos firebase adminsdk.json' to 'src'
+1588795115386	Delete element
+1588795118285	Delete element
+1588847439551	Delete element
+1588847967982	Delete element
+1588850116376	Delete element
+1588850236032	Encapsulate field 'surname'
+1588852073817	Rename type 'Person'
+1588852427337	Encapsulate field 'name'
+1589126064694	Move 'istos-3d24b-firebase-adminsdk-9pnyw-1b0aed2494.json' to 'istos2'
+1589126589476	Move 'istos-3d24b-firebase-adminsdk-9pnyw-1b0aed2494.json' to 'services'

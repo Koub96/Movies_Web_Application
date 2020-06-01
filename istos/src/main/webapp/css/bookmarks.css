@@ -1,0 +1,16 @@
+body {
+	background-color: #5e87c4;
+}
+
+
+td, p{
+	font-family: 'Caveat', cursive;
+	color: white;
+	padding-left: 0.5%;
+	padding-right: 0.5%;
+	color: white;
+}
+
+a{
+	color:white;
+}

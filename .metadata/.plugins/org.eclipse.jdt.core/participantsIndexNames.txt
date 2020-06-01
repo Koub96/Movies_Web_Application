@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+C:\Users\Konstantinos\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3286171855.index
+\istos2\src\main\java
+C:\Users\Konstantinos\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1482099647.index
+\istos\src\main\java
+C:\Users\Konstantinos\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1299402775.index
+\istos\src\main\java
+C:\Users\Konstantinos\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3820161829.index
+\istos2\src\main\java
+C:\Users\Konstantinos\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1178828648.index
+\istos\src\main\java

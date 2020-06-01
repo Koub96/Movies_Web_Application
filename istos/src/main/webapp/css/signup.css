@@ -1,0 +1,47 @@
+.grid { 
+    max-width: 70%;
+	margin: auto;
+	display: grid;
+	grid-template-columns: auto;
+	
+}
+
+
+
+
+
+
+p{
+	font-family: 'Caveat', cursive;
+	color: white;
+	padding-left: 0.5%;
+	padding-right: 0.5%;
+}
+
+
+
+
+body {
+	background-color: #5e87c4;
+}
+
+a {
+	color: #FFFAFA;
+}
+
+
+
+a:link {
+	color: #E6E6FA;
+}
+
+a:active {
+	background-color: #203556;
+}
+
+
+
+h1{
+    color: white;
+    
+}
